@@ -1,0 +1,2 @@
+# Simple-Host
+This is a project with simple CRUD operations. The operations work with a physical drive located on an Ubuntu Server. The operations of the host serves files to the client requesting those files. This was intended for uni purposes as I often always left things on my computer and so I thought I would store these files to be hosted live with a simple security interface storing credentials in the MYSQL database.
