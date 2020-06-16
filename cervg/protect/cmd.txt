@@ -1,0 +1,2 @@
+awk '{print }' /var/log/apache2/access.log | sort -u > /var/www/html/protect/ip.txt --> Get IP Addresses from visitors going onto host web on Apache2
+cut -d: -f1 /etc/group | sort --> List all groups in Linux
